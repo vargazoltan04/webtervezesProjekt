@@ -1,0 +1,30 @@
+<div class="recipes-recipe-information">
+	<div class="recipes-recipe-ingredients">
+        <h4>Hozzávalók</h4>
+        <ul>
+            <li>500 g kenyérliszt bl80</li>
+            <li>325 ml víz</li>
+            <li>15 g só</li>
+            <li>1 g instant élesztő</li>
+            <li>10 csepp olívaolaj</li>
+            <li>12 evőkanál passzírozott paradicsom passata di pomodoro</li>
+            <li>45 dkg mozzarella sajt friss</li>
+            <li>néhány csepp extra szűz olívaolaj</li>
+            <li>pár csipet szárított oregánó</li>
+            <li>9 szelet főtt sonka javasolt: prosciutto cotto, kb. 30 dkg</li>
+            <li>24 dkg gomba pl. barna csiperke</li>
+            <li>50 darab olajbogyó fekete</li>
+            <li>6 darab articsóka szív konzerv, kb. 30 dkg</li>
+            <li>ízlés szerint só</li>
+        </ul>
+    </div>
+    <div class="recipes-recipe-other">
+		<h4>Recept információk</h4>
+		<ul>
+            <li>Elkészítési idő: 70 perc</li>
+            <li>4 adag</li>
+            <li>Sütési hőmérséklet: 300 °C</li>
+			<li>Sütés ideje: 6 perc</li>
+        </ul>
+	</div>
+</div>

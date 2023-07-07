@@ -1,0 +1,11 @@
+<div class="recipes-recipe-description">
+	<p>
+		Készítsük el a tésztát az alaprecept szerint, keltsük fel és hagyjuk szobahőmérsékletűre melegedni. Melegítse fel a sütőt a sütőtálcával vagy a pizzakővel együtt 320 °C-ra. Fűszerezzük a paradicsomot sóval, borssal és kevés cukorral.
+	</p>
+	<p>
+		Tisztítsa meg, vágja le és szeletelje fel a gombákat. Vágja darabokra az articsókát és a sonkát. Felezd meg a szalámiszeleteket. Hámozzuk meg a hagymát és vágjuk karikákra. A paprikát felezzük meg, távolítsuk el a fehér elválasztókat és a magokat, mossuk meg a felét és vágjuk csíkokra. Felezd meg az olajbogyót. Vágja a mozzarellát vékony szeletekre.
+	</p>
+	<p>
+		Negyedezzük meg a tésztát, és alakítsunk négy kerek pizzalapra egy darab enyhén lisztezett sütőpapíron. Mindegyikre 2-3 evőkanál paradicsomot kenünk. Minden pizza negyedét töltsük fel sonkával és gombával, szalámival és paprikával, hagymával, olajbogyóval és articsókával. Húzza a pizzákat a sütőpapírral egymás után a forró tepsire
+	</p>
+</div>

@@ -1,0 +1,32 @@
+
+<div class="recipes-recipe-information">
+	<div class="recipes-recipe-ingredients">
+		<h4>Hozzávalók</h4>
+		<ul>
+            <li>50 dkg finomliszt</li>
+            <li>1.5 dl langyos víz</li>
+            <li>1 csipet cukor</li>
+            <li>3 dkg friss élesztő</li>
+            <li>1 teáskanál só</li>
+            <li>800 gramm hámozott konzerv paradicsom</li>
+            <li>3 gerezd fokhagyma</li>
+            <li>5-6 evőkanál olívaolaj</li>
+            <li>só ízlés szerint</li>
+            <li>bors ízlés szerint</li>
+            <li>1 csokor friss bazsalikom</li>
+            <li>20 dkg mozzarella sajt</li>
+            <li>15 dkg gorgonzola sajt</li>
+            <li>15 dkg parmezán sajt</li>
+            <li>15 dkg gouda sajt</li>
+		</ul>
+	</div>
+	<div class="recipes-recipe-other">
+		<h4>Recept információk</h4>
+		<ul>
+			<li>Elkészítési idő: 65 perc</li>
+			<li>4 adag</li>
+			<li>Sütési hőmérséklet: 285 °C</li>
+			<li>Sütés ideje: 12 perc</li>
+		</ul>
+	</div>
+</div>

@@ -1,0 +1,281 @@
+/* Main picture*/
+
+.homepage-main-container {
+    position: relative;
+    margin-top: 100px;
+}
+
+.homepage-main-container img {
+    width: 100%;
+    filter: brightness(50%);
+}
+
+.homepage-fixed-main-picture {
+    background-image: url("../pictures/homepicture.jpeg");
+    min-height: 650px;
+    filter: brightness(50%);
+    background-attachment: fixed;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.homepage-main-container-text{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.homepage-main-container-text h1 {
+    color: white;
+    letter-spacing: 0.2em;
+    font-size: 5em;
+    margin-bottom: 2rem;
+}
+.homepage-main-container-text span {
+    font-size: 2em;
+    background-color: transparent;
+    border: solid white 1px;
+    color: white;
+    border-radius: 20px;
+    padding: 0.5rem;
+    cursor: pointer;
+}
+
+
+
+
+/* introduction-box */
+
+.homepage-introduction-container {
+    height: fit-content;
+    width: 60%;
+    margin: 5rem;
+    border-radius: 25px;
+    box-shadow: 0px 0px 10px 5px #BDBEBE;
+    background: rgb(255,255,255);
+    background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(236,236,235,1) 100%);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2rem;
+    text-align: center;
+}
+
+.shef-box {
+    margin-left: auto;
+    margin-right: 3rem;
+}
+
+.homepage-introduction-container img {
+    width: 100%;
+    margin: 1rem;
+}
+.homepage-introduction-container h2{
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+    color: #545454;
+}
+
+.homepage-introduction-container h5,
+.homepage-introduction-container p{
+    color: #898989;
+    text-align: justify;
+}
+
+.homepage-introduction-container h5 {
+    font-style: italic;
+}
+
+.homepage-introduction-container-picture {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0.75rem 1.5rem;
+}
+
+
+
+
+/* Ingridients */
+
+.homepage-ingridients {
+    position: relative;
+}
+
+.homepage-ingridients img {
+    width: 100%;
+    filter: brightness(50%);
+}
+
+.homepage-fixed-ingridients-picture {
+    background-image: url("../pictures/homepage-ingridients.jpeg");
+    min-height: 400px;
+    filter: brightness(50%);
+    background-attachment: fixed;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.homepage-ingridients-text{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.homepage-ingridients-text h2 {
+    color: white;
+    letter-spacing: 0.3rem;
+    font-size: 3em;
+    margin-bottom: 2rem;
+}
+.homepage-ingridients-text p {
+    color: white;
+    letter-spacing: 0.1rem;
+    font-size: 1em;
+}
+
+/* homepage-webshop */
+
+
+.homepage-webshop {
+    background-color: #252526;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.5rem 2rem;
+    margin-bottom: 3rem;
+}
+
+.homepage-webshop a, 
+.homepage-webshop a:visited{
+    background-color: #007acc;
+    font-size: 1.25em;
+    font-weight: 600;
+    color: white;
+    cursor: pointer;
+    border-radius: 10px;
+    border: none;
+    padding: 0.5rem;
+}
+.homepage-webshop h2 {
+    color: white;
+    
+}
+/* Recipes */
+
+.homepage-recipes {
+    position: relative;
+    margin-bottom: 3rem;
+}
+
+.homepage-recipes img {
+    width: 100%;
+    filter: brightness(50%);
+}
+
+.homepage-fixed-ingridients-picture {
+    background-image: url("../pictures/homepage-ingridients.jpeg");
+    min-height: 400px;
+    filter: brightness(50%);
+    background-attachment: fixed;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.homepage-ingridients-text{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.homepage-ingridients-text h2 {
+    color: white;
+    letter-spacing: 0.3rem;
+    font-size: 3em;
+    margin-bottom: 2rem;
+}
+.homepage-ingridients-text p {
+    color: white;
+    letter-spacing: 0.1rem;
+    font-size: 1em;
+}
+
+/* News */
+
+.homepage-news-container {
+    display: flex;
+    box-shadow: 0px 0px 10px 5px #BDBEBE;
+}
+.homepage-news-title {
+    color: #545454;
+    margin-bottom: 0.5rem;
+    margin-left: 1rem;
+}
+
+.homepage-news {
+    display: flex;
+    padding: 1rem;
+    box-shadow: 0px 0px 20px 1px #BDBEBE;
+    margin: 1rem;
+    background: rgb(255,255,255);
+    background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(236,236,235,1) 100%);
+}
+.homepage-news img {
+    width: 30%;
+}
+
+.homepage-news h2,
+.homepage-news p{
+    color: #545454;;
+}
+
+
+/* Responsivity */
+
+@media screen and (max-width: 830px){
+    .homepage-introduction-container {
+        flex-direction: column;
+    }
+    .homepage-main-container-text h1{
+        font-size: 3em;
+    }
+    .homepage-main-container-text span {
+        font-size: 2em;
+    }
+    .shef-box,
+    .about-box,
+    .founder-box {
+        margin: 3rem;
+    }
+    .introduction-container {
+        align-items: center;
+        width: fit-content;
+    }
+    .homepage-news-container {
+        flex-direction: column;
+    }
+}
+
+@media screen and (max-width: 450px){
+    .homepage-main-container-text span {
+        font-size: 1.5em;
+    }
+    .introduction-container {
+        margin: 1rem auto;
+    }
+    .homepage-ingridients-text h2 {
+        font-size: 2em;
+    }
+    .homepage-webshop h2 {
+        font-size: 1.2em;
+    }
+}

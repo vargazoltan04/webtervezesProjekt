@@ -1,0 +1,31 @@
+<div class="recipes-recipe-information">
+	<div class="recipes-recipe-ingredients">
+		<h4>Hozzávalók</h4>
+		<ul>
+<li>24 órás pizzatészta</li>
+<li>½ doboz vaskos paradicsom (200 g)</li>
+<li>só</li>
+<li>bors</li>
+<li>1 csipet cukor</li>
+<li>100 g gomba</li>
+<li>100 g articsóka olajban</li>
+<li>2 szelet főtt sonka</li>
+<li>4 szelet szalámi</li>
+<li>1 közepes hagyma</li>
+<li>1 piros hegyes bors</li>
+<li>50 g fekete, kimagozott olajbogyó (az üvegből)</li>
+<li>2 kanál mozzarella (egyenként 125 g)</li>
+<li>Liszt dolgozni</li>
+
+		</ul>
+	</div>
+	<div class="recipes-recipe-other">
+		<h4>Recept információk</h4>
+		<ul>
+			<li>Elkészítési idő: 70 perc</li>
+			<li>4 adag</li>
+			<li>Sütési hőmérséklet: 320 °C</li>
+			<li>Sütés ideje: 7 perc</li>
+		</ul>
+	</div>
+</div>

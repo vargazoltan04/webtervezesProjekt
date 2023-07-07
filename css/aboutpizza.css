@@ -1,0 +1,163 @@
+main {
+    margin: 120px 10rem
+}
+
+/* History section*/
+.aboutpizza-history {
+    padding: 1rem;
+}
+
+main p {
+    text-align: justify;
+    font-size: 1.2em;
+    margin-bottom: 2rem;
+    color: #545454;
+}
+
+.aboutpizza-history-sectionA,
+.aboutpizza-history-sectionB{
+    display: flex;
+    margin-bottom: 3rem;
+    align-items: center;
+}
+
+.aboutpizza-history-sectionA p{
+    margin-right: 1rem;
+}
+.aboutpizza-history-sectionB img {
+    margin-right: 1rem;
+}
+.aboutpizza-history-sectionB p {
+    margin-bottom: 0;
+}
+
+.aboutpizza-history-ingridients {
+    margin-top: 3rem;
+}
+.aboutpizza-history-ingridients h3 {
+    color: #545454;
+    font-style: italic;
+    font-size: 1.25em;
+}
+
+
+.aboutpizza-history img {
+    height: 200px;
+    box-shadow: 0px 0px 20px 1px #BDBEBE;
+}
+.aboutpizza-history h2 {
+    margin: 3rem 0;
+    font-size: 2em;
+    font-weight: 900;
+    font-style: italic;
+}
+
+.aboutpizza-title {
+    position: relative;
+}
+
+.aboutpizza-fixed{
+    background-image: url("../pictures/aboutpizza-titlepic.jpeg");
+    min-height: 300px;
+    filter: brightness(50%);
+    background-attachment: fixed;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.aboutpizza-text {
+    width: 100%;
+    white-space: nowrap;
+}
+
+.aboutpizza-text h2{
+    position: absolute;
+    z-index: 2;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 2.5em;
+    letter-spacing: 0.5em;
+}
+
+
+
+
+/* Pizza types grid */
+
+.aboutpizza-types {
+    margin-top: 5rem;
+    display: grid;
+    text-align: center;
+    gap: 3px;
+    margin: 0 1rem;
+    background-color: black;
+    box-shadow: 0px 0px 20px 1px #BDBEBE;
+}
+
+.pizza {
+    position: relative;
+    cursor: pointer;
+    border: solid black 2px;
+}
+
+.pizza img {
+    filter: brightness(50%);
+    height: 100%;
+    width: 100%;
+    transition: transform 0.5s;
+}
+
+.pizza img:hover {
+    transform: scale(1.02);
+    z-index:10;
+    opacity: 0.9;
+}
+
+.pizza h2 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    z-index: 2;
+    color: white;
+}
+
+.pizza-1 {
+    grid-column-start: 1;
+    grid-column-end: 4;
+    height: 3em;
+    border: none;
+}
+.aboutpizza-types-specify {
+    margin: 2rem 1rem;
+}
+
+@media screen and (max-width: 1000px) {
+    main {
+        margin: 120px 1rem;
+    }
+    .aboutpizza-history-sectionA,
+    .aboutpizza-history-sectionB{
+    flex-direction: column;
+    }
+    .aboutpizza-text h2 {
+        font-size: 1.7em;
+    }
+}
+
+@media screen and (max-width: 575px) {
+    .aboutpizza-text h2 {
+        font-size: 1em;
+    }
+    .aboutpizza-history img  {
+        margin: auto;
+        height: 140px;
+    }
+    .aboutpizza-types {
+       display: block;
+    }
+}

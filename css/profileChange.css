@@ -1,0 +1,217 @@
+body {
+    margin-top: 130px;
+
+}
+main {
+    position: relative;
+    height: 135rem;
+    overflow-y: hidden; 
+}
+
+.hidden {
+    display: none;
+}
+form {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.form {
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    width: 600px;
+    height: fit-content;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 6rem;
+}
+
+#formLogin {
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.form input,
+.gender-selection,
+.profile-change-picture {
+    padding: 0.5rem;
+    border: 2px solid;
+    border-image: linear-gradient(0.25turn, #007acc, #545454);
+    border-image-slice: 1;
+    width:100%;
+    font-size: 1.1em;
+}
+
+.ProfileChange-title{
+    display: flex;
+    margin-bottom: 2.5rem;
+}
+.ProfileChange-title h2{
+    margin: 0 2rem;
+    letter-spacing: 0.3rem;
+    font-size: 2.2em;
+    color: #545454;
+}
+.ProfileChange-title img {
+    height: 60px;
+}
+.ProfileChange-title-pizzaicon1 {
+    transform: rotate(-45deg);
+}
+.ProfileChange-title-pizzaicon2{
+    transform: rotate(45deg);
+}
+
+.profile-change {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-align: left;
+    width: 100%;
+}
+
+.error-message {
+    font-size: 2rem;
+    color: red;
+}
+
+.profile-change label {
+    margin-right: 2rem;
+    width: 30%;
+    font-size: 1.05em;
+    color: #545454;
+}
+
+
+.profile-change input,
+.profile-change label, 
+.profile-change select {
+    margin-bottom: 1rem;
+}
+
+#gender {
+    margin: auto;
+}
+
+.profilChange-btn {
+    margin-top: 3rem;
+}
+
+.profile-change-picture {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    margin-top: 2rem;
+    border: none;
+    border-top: 2px solid;
+    border-bottom: 2px solid;
+}
+.profile-change-picture img {
+    width: 130px;
+    border-radius: 50px;
+    margin-right: 1.5rem;
+}
+.profile-change-picture input {
+    height: 100%;
+    font-size: 1em;
+}
+
+.profileChange-account input,
+.delete-account input {
+    padding: 1.5rem;
+    font-size: 1.25em;
+    letter-spacing: 0.1em;
+    font-weight: 600;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    background-color: #007acc;
+    border-radius: 30px;
+    color: white;
+    margin-bottom: 0.3rem;
+    margin-top: 3rem;
+    cursor: pointer;
+    border: none;
+    
+}
+
+.delete-account input {
+    background-color: red;
+}
+
+.profileChange-error {
+    color: red;
+    font-weight: bold;
+}
+
+
+
+.gender-selection {
+    width: 25%;
+    height: 100%;
+    font-size: 1.1em;
+}
+
+@media screen and (max-width: 650px) {
+    .form {
+        padding: 2rem;
+        width: 70%;
+    }
+    .form input {
+        font-size: 1em;
+    }
+    
+    .ProfileChange-title h2 {
+        margin: 0 1rem;
+        font-size: 2em;
+    }
+    .ProfileChange-title img {
+        height: 35px;
+    }
+    .profile-change label{
+        font-size: 0.9em;
+        margin-right: 0.4rem;
+        width: 25%;
+    }
+    .profile-change-picture img {
+        width: 100px;
+    }
+    .profile-change-picture input {
+        font-size: 0.7em;
+    }
+    
+}
+@media screen and (max-width: 500px) {
+    .form {
+        padding: 1.5rem;
+        width: 80%;
+    }
+    .form input {
+        font-size: 0.7em;
+    }
+    
+    .ProfileChange-title h2 {
+        margin: 0 1rem;
+        font-size: 1.7em;
+    }
+    .ProfileChange-title img {
+        height: 25px;
+    }
+    .profile-change label{
+        font-size: 0.8em;
+        margin-right: 0.3rem;
+        width: 25%;
+    }
+    .profile-change-picture img {
+        width: 90px;
+    }
+    .profile-change-picture input {
+        font-size: 0.6em;
+    }
+    
+}
+
+

@@ -1,0 +1,30 @@
+
+<div class="recipes-recipe-information">
+	<div class="recipes-recipe-ingredients">
+		<h4>Hozzávalók</h4>
+		<ul>
+            <li>500 ml víz</li>
+            <li>2 g friss élesztő</li>
+            <li>20 g cukor</li>
+            <li>15 g só</li>
+            <li>1 ek olívaolaj</li>
+            <li>800 - 850 g 00-ás pizzaliszt</li>
+            <li>A Margherita pizzához</li>
+            <li>1 db polpa konzerv (1 db/400 g)</li>
+            <li>1 tk só</li>
+            <li>1 tk oregánó</li>
+            <li>4 db mozzarella (1 db/125 g)</li>
+            <li>6 ek pecorino-parmezán 11 arányú keveréke</li>
+            <li>friss bazsalikomlevél</li>
+		</ul>
+	</div>
+	<div class="recipes-recipe-other">
+		<h4>Recept információk</h4>
+		<ul>
+			<li>Elkészítési idő: 50 perc</li>
+			<li>4 adag</li>
+			<li>Sütési hőmérséklet: 270 °C</li>
+			<li>Sütés ideje: 10 perc</li>
+		</ul>
+	</div>
+</div>

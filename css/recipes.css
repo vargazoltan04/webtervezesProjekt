@@ -1,0 +1,193 @@
+/*Pizza types grid*/
+
+.recipes-pizza-types {
+    display: grid;
+    text-align: center;
+    gap: 3px;
+    background-color: white;
+    box-shadow: 0px 0px 20px 1px #BDBEBE;
+    padding: 20px;
+    margin: 8rem auto 2rem auto;
+    width: 80%;
+    border-radius: 10px;
+}
+
+.pizza {
+    position: relative;
+    cursor: pointer;
+    border: solid black 2px;
+}
+
+.pizza img {
+    filter: brightness(50%);
+    height: 100%;
+    width: 100%;
+    transition: transform 0.5s;
+}
+
+.pizza img:hover {
+    transform: scale(1.02);
+    z-index: 10;
+    opacity: 0.9;
+}
+
+.pizza h2 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    color: white;
+}
+
+.pizza-1 {
+    grid-column-start: 1;
+    grid-column-end: 4;
+    height: 3em;
+    border: none;
+
+}
+
+.pizza-1 h2 {
+    color: black;
+}
+
+
+
+/*Recipe Description*/
+
+
+.recipes-recipe-container {
+    display: flex;
+    width: fit-content;
+    height: fit-content;
+    margin: 2rem auto;
+    justify-content: space-between;
+    padding: 0 2rem;
+}
+
+.recipes-recipe-information {
+    height: auto;
+}
+.recipes-recipe-description {
+    flex: 1;
+    box-shadow: 0px 0px 20px 1px #BDBEBE;
+    width: fit-content;
+    min-width: 20rem;
+    max-width: 40rem;
+    border-radius: 50px;
+    padding: 2.5rem;
+    margin-left: 1rem;
+    text-align: justify;
+    line-height: 1.25rem;
+    word-spacing: 0.25rem;
+}
+
+.recipes-recipe-description p {
+    margin: 1rem;
+}
+
+.recipes-recipe-ingredients,
+.recipes-recipe-other {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    height: fit-content;
+    width: auto;
+    box-shadow: 0px 0px 20px 1px #BDBEBE;
+    border-radius: 50px;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+}
+
+.recipes-recipe-other {
+    margin-top: 1rem;
+}
+
+.recipes-recipe-ingredients {
+    margin-bottom: 1rem;
+}
+
+.recipes-recipe-ingredients h4,
+.recipes-recipe-other h4 {
+    margin-bottom: 2rem;
+}
+
+hr {
+    width: 90%;
+    margin: 0 auto;
+    border: 2px #BDBEBE solid;
+    border-radius: 10px;
+}
+
+@media screen and (max-width: 768px) {
+    .recipes-recipe-container {
+        flex-direction: column;
+        margin: 0 auto;
+        width: auto;
+    }
+
+    .recipes-recipe-information {
+        display: flex;
+        min-width: 10rem;
+    }
+
+    .recipes-recipe-ingredients{
+        margin: 2rem;
+        height: auto;
+    }
+
+    .recipes-recipe-other {
+        margin: 2rem 2rem 2rem 0rem;
+        height: auto;
+    }
+
+
+    .recipes-recipe-description {
+        width: fit-content;
+        margin: 0rem 2rem 2rem 2rem;
+    }
+}
+
+@media screen and (max-width: 575px) {
+    .recipes-recipe-container {
+        flex-direction: column;
+        margin: 0 auto;
+        min-width: 12.5rem;
+        width: auto;
+    }
+
+    .recipes-recipe-information {
+        display: flex;
+        min-width: 10rem;
+        flex-direction: column;
+    }
+
+    .recipes-recipe-ingredients{
+        margin: 2rem 1rem 1rem 1rem;
+        height: auto;
+        width: auto;
+        min-width: 12.5rem;
+    }
+
+    .recipes-recipe-other {
+        margin: 1rem 1rem 2rem 1rem;
+        height: auto;
+        width: auto;
+        min-width: 12.5rem;
+    }
+
+
+    .recipes-recipe-description {
+        width: fit-content;
+        margin: 0rem 2rem 2rem 2rem;
+        min-width: 12.5rem;
+    }
+    .recipes-pizza-types {
+        display: block;
+     }
+     .recipes-recipe-description p {
+        margin: 0;
+    } 
+}

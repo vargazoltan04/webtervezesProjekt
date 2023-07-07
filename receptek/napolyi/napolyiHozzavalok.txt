@@ -1,0 +1,29 @@
+<div class="recipes-recipe-information">
+	<div class="recipes-recipe-ingredients">
+		<h4>Hozzávalók</h4>
+		<ul>
+
+		<li>500 g kenyérliszt bl80</li>
+		<li>325 ml víz</li>
+		<li>15 g só</li>
+		<li>1 g instant élesztő</li>
+		<li>10 csepp olívaolaj</li>
+
+		<li>350 g konzerv paradicsom (1 konzerv)</li>
+		<li>1 gerezd fokhagyma (ízlés szerint)</li>
+		<li>1 ek olívaolaj (ízlés szerint)</li>
+		<li>bazsalikom ízlés szerint</li>
+		<li>só ízlés szerint</li>
+		<li>bors ízlés szerint</li>
+		</ul>
+	</div>
+	<div class="recipes-recipe-other">
+		<h4>Recept információk</h4>
+		<ul>
+			<li>Elkészítési idő: 60 perc</li>
+			<li>4 adag</li>
+			<li>Sütési hőmérséklet: 285 °C</li>
+			<li>Sütés ideje: 5 perc</li>
+		</ul>
+	</div>
+</div>

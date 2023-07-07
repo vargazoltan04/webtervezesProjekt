@@ -1,0 +1,31 @@
+
+<div class="recipes-recipe-information">
+	<div class="recipes-recipe-ingredients">
+		<h4>Hozzávalók</h4>
+		<ul>Hozzávalók:
+			<li>50 dkg finomliszt</li>
+			<li>1.5 dl langyos víz</li>
+			<li>1 csipet cukor</li>
+			<li>3 dkg friss élesztő</li>
+			<li>1 teáskanál só</li>
+			<li>20 dkg szeletelt gépsonka</li>
+			<li>20 dkg csiperkegomba</li>
+			<li>1 fej vöröshagyma</li>
+			<li>1 gerezd fokhagyma</li>
+			<li>15 dkg sűrített paradicsom</li>
+			<li>2 evőkanál olívaolaj</li>
+			<li>bors</li>
+			<li>oregánó</li>
+			<li>bazsalikom</li>
+			<li>25 dkg mozzarella sajt</li>
+		</ul>
+	</div>
+	<div class="recipes-recipe-other">
+	<h4>Recept információk</h4>
+	<ul>
+		<li>Elkészítési idő: 55 perc</li>
+		<li>4 adag</li>
+		<li>Sütési hőmérséklet: 270 °C</li>
+		<li>Sütés ideje: 6 perc</li>
+	</ul>
+</div>

@@ -1,0 +1,35 @@
+<div class="recipes-recipe-information">
+	<div class="recipes-recipe-ingredients">
+        <h4>Hozzávalók</h4>
+        <ul>
+            <li>25 g friss élesztő</li>
+            <li>300 ml langyos víz</li>
+            <li>1 tk cukor</li>
+            <li>500 g liszt</li>
+            <li>15 g só</li>
+            <li>2 ek olaj</li>
+            <li>200 g pizzamozzarella</li>
+
+            <li>2 ek olaj</li>
+            <li>2 gerezd fokhagyma</li>
+            <li>300 ml passata</li>
+            <li>só, bors</li>
+            <li>2 tk szárított oregánó</li>
+            <li>1 csokor friss vagy 2 tk szárított bazsalikom</li>
+
+            <li>200 g mozzarella</li>
+            <li>150 g szeletelt paprikás szalámi</li>
+            <li>9 db pepperoni</li>
+            <li>200 g csiperkegomba</li>
+        </ul>
+	</div>
+	<div class="recipes-recipe-other">
+		<h4>Recept információk</h4>
+		<ul>
+            <li>Elkészítési idő: 80 perc</li>
+            <li>4 adag</li>
+            <li>Sütési hőmérséklet: 285 °C</li>
+            <li>Sütés ideje: 6 perc</li>
+        </ul>
+	</div>
+</div>

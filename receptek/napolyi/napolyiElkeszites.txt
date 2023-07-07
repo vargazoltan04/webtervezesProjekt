@@ -1,0 +1,18 @@
+<div class="recipes-recipe-description">
+	<p>
+	Keverjük el az élesztőt egy kevés langyos vízben, majd keverjük össze a lisztet a sóval egy tálban.<br>
+	Ha feléledt az élesztő, keverjük hozzá a maradék vizet hidegen, majd öntsük a tálba, amiben a sós lisztet kevertük. Gyúrjuk addig a tésztát, amíg el nem válik a tál falától.<br>
+	Formáljunk labdát a tésztából úgy, hogy a széleit mindig széthúzzuk, majd maga alá hajtjuk.<br>
+	Tegyük vissza a tésztát tálba. Fedjük le légmentesen fóliával, vagy tegyük az egész tálat szemeteszsákba, hogy ki ne száradjon. Kelesszük 6-8 órán keresztül hűvös helyen.<br>
+	</p>
+	<p>
+	Kelés után vegyük elő a tésztát, és osszuk 3-4 részre. Formáljunk belőlük kis bucikat (úgy ahogy az előző lépésnél is tettük, vagy formáljunk karikát mutató és hüvely ujjunkból és tömködjük át a tésztát rajta).
+	Olajozzuk be a bucik felületét, hogy ki ne száradjanak. Fedjük le őket légmentesen, és kelesszük legalább egy éjszakát a hűtőben vagy hűvös helyen.
+	A második kelés után vegyük ki a bucikat a hűtőből, hagyjuk 20 percig felengedni őket, majd lapogassuk ki, és nyújtsuk kerekre a őket.
+	szósz
+	</p>
+	<p>
+	A nápolyiak nem szórakoznak sokat a szósszal. Vegyünk egy hámozott paradicsomkonzervet, sózzuk, borsozzuk majd ízlés szerint tegyünk bele bazsalikomot, olívaolajat, fokhagymát. Kéziturmixszal turmixoljuk össze, és kész is a tökéletes pizzaszósz!
+	Sütéshez melegítsük elő a sütőt maximum hőfokon pizzakövünkkel vagy pizzavasunkkal 30-40 percig. Hirtelen mozdulattal csúsztassuk a kész pizzát lisztezett pizzalapátról vagy kartonlapról a kőre/vasra. Kövön 7-10 perc a sütési idő, vason 4-5 perc.
+	</p>
+</div>

@@ -1,0 +1,30 @@
+<div class="recipes-recipe-information">
+	<div class="recipes-recipe-ingredients">
+		<h4>Hozzávalók</h4>
+		<ul>
+			<li>250 g kenyérliszt</li>
+			<li>250 pizzaliszt</li>
+			<li>250 ml meleg víz</li>
+			<li>10 g friss élesztő</li>
+			<li>25 ml olívaolaj</li>
+			<li>1 ½ tk só</li>
+			<li>2 ek olívaolaj</li>
+			<li>2 gerezd fokhagyma</li>
+			<li>1 doboz darabolt paradicsom</li>
+			<li>250 ml víz</li>
+			<li>só, bors</li>
+			<li>1 csokor friss bazsalikom</li>
+			<li>60 g parmezán</li>
+			<li>3 ek panko morzsa</li>
+		</ul>
+	</div>
+	<div class="recipes-recipe-other">
+		<h4>Recept információk</h4>
+		<ul>
+			<li>Elkészítési idő: 60 perc</li>
+			<li>4 adag</li>
+			<li>Sütési hőmérséklet: 285 °C</li>
+			<li>Sütés ideje: 5 perc</li>
+		</ul>
+	</div>
+</div>

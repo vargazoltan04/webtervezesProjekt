@@ -1,0 +1,17 @@
+<div class="recipes-recipe-description">
+	<p>
+        Az élesztőt a langyos vízbe morzsoljuk, hozzákeverjük a cukrot, és hagyjuk 10-15 percet állni, hogy felfusson. A lisztet egy tálba tesszük, hozzáadjuk a felfuttatott élesztőt, a sót és az olajat, majd az egészet kézzel vagy dagasztógéppel kidagasztjuk. Lefedjük egy konyharuhával, és hagyjuk 50-60 percet állni, hogy megkeljen a tészta.
+    </p>
+    <p>
+A pizzaszószhoz közepes lángon olajat hevítünk egy lábasban, hozzáadjuk az áttört fokhagymát, majd ráöntjük a passatát. Ízesítjük sóval, borssal, hozzákeverjük az oregánót és a felaprított, friss bazsalikomot is. Ha esetleg nincs friss, nyugodtan használhattok szárítottat. Az egészet összeforraljuk, és félretesszük.
+    </p>
+    <p>
+Ha megkelt a tészta, 3 részre osztjuk, és 2-3 mm vastagságúra nyújtjuk. A sajtot 1 cm vastag és kb. 5 cm hosszú hasábokra vágjuk, és a tészta szélére helyezzük egyesével, majd egyszer ráhajtjuk a tészta szélét. Mikor körbeértünk, még egyet hajtunk a tészta szélén, hogy a sajt biztosan ne folyjon ki a sütés során. 
+    </p>
+    <p>
+Megkenjük a tésztát a paradicsomos szósszal, megszórjuk a reszelt mozzarellával, ráhelyezzük a szalámit, a paprikát és a gombát.
+    </p>
+<p>
+A sütőt 285 fokra előmelegítjük, majd a sütőtepsit betesszük, hogy alaposan átforrósodjon. Mikor már forró, a pizzát egy lapát segítségével ráemeljük. Ha nincs ekkora lapátunk, célszerű sütőpapíron dolgozni, és azt áthúzni a tepsire, mert félő, hogy ha kézzel emeljük át a pizzát, akkor szétesik. 15 perc alatt a sütőben készre sütjük.
+</p>
+</div>
